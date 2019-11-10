@@ -6,7 +6,7 @@ This is a project about generating a peptide library using Generative Model.
 	0. what generative model we can use?
 	1. example the GAN. or other G model.
 	
-  
+  this is good one: https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
   week2: 
   
   1. preprocessing data.
