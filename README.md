@@ -9,20 +9,31 @@ This is a project about generating a peptide library using Generative Model.
 	
   this is good one: https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
   <br>
-  1. theory and background material.<br>
-  2. decide package <br>
-  3. problems
+  1. theory and background material. : update later<br>
+  2. decide package : keras Auxiliary Classifier GAN (ACGAN) <br>
+  3. problems : no
   3. next week plan 
+  	
   
   week2: 
   
   1. preprocessing data.
+  	dataset: https://hla-ligand-atlas.org/welcome 
+  	encoding method: 
+	
   2. building model 
+  	building generator 
+	how many classes in this model. maybe only 2
+	
+	
+	
   
   week3:
   
   1. modifying model
   2. evaluating the performance
+  	
+  	need some background knowledge about peptide when evaluation
   
   week4:
   
