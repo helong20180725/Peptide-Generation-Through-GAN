@@ -25,6 +25,10 @@ This is a project about generating a peptide library using Generative Model.
   	building generator 
 	how many classes in this model. maybe only 2
 	
+  questions:<br>
+  	1. Can the accuracy be less than 50% when trainning the generator? What does it mean?<br>
+	2. What is the process of backpropagation of generator trainning? How does it only update generator weights?<br>
+	
 	
 	
   
