@@ -28,7 +28,9 @@ This is a project about generating a peptide library using Generative Model.
   questions:<br>
   	1. Can the accuracy be less than 50% when trainning the generator? What does it mean?<br>
 	2. What is the process of backpropagation of generator trainning? How does it only update generator weights?<br>
-	
+	3. Wasserstein Loss is better than Minimax Loss. https://developers.google.com/machine-learning/gan/loss <br>
+		So maybe something can be done for the loss function. The purpose is to get the distance. (WGAN vs. TFGAN)
+	4. 
 	
 	
   
