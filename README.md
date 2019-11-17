@@ -37,6 +37,8 @@ This is a project about generating a peptide library using Generative Model.
   Sample Code:
   https://github.com/channel-learnings/Basic-GAN/blob/master/GAN%20on%20mnist.ipynb
   https://towardsdatascience.com/gan-by-example-using-keras-on-tensorflow-backend-1a6d515a60d0
+  
+  <br>
   week3:
   
   1. modifying model
