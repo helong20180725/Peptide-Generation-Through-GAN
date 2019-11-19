@@ -41,10 +41,14 @@ This is a project about generating a peptide library using Generative Model.
   <br>
   week3:
   
+ 
+  
   1. modifying model
   2. evaluating the performance
   	
   	need some background knowledge about peptide when evaluation
+ We can use the following notebook to run our program. Then we can use their GPU.<br>
+ https://colab.research.google.com/drive/1JEDV_fZOQQH1k1d2WK9xlXwNB-0QdcFB
   
   week4:
   
