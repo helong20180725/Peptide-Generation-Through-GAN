@@ -48,7 +48,7 @@ This is a project about generating a peptide library using Generative Model.
   	
   	need some background knowledge about peptide when evaluation
  We can use the following notebook to run our program. Then we can use their GPU.<br>
- https://colab.research.google.com/drive/1JEDV_fZOQQH1k1d2WK9xlXwNB-0QdcFB
+ https://github.com/helong20180725/Peptide-Generation-Through-GAN
   
   week4:
   
