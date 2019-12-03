@@ -52,6 +52,9 @@ This is a project about generating a peptide library using Generative Model.
  
  Code to upload the tsv file into colab and parsing tsv file
  https://colab.research.google.com/drive/1npJiC78Msa17JJ7EMijTuH4SqmU-ZKRQ#scrollTo=OAuJoVpgENDV
+ 
+ Preprocessing of peptide sequence reference:
+ https://www.kaggle.com/helmehelmuto/cnn-keras-and-innvestigate -used inbuild keras tokenizer to convert sequences
   
   week4:
   
