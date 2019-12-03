@@ -49,6 +49,9 @@ This is a project about generating a peptide library using Generative Model.
   	need some background knowledge about peptide when evaluation
  We can use the following notebook to run our program. Then we can use their GPU.<br>
  https://colab.research.google.com/drive/1iiQRtdOwzkKEJ2MitEiBmzy-mc1RCV7m
+ 
+ Code to upload the tsv file into colab and parsing tsv file
+ https://colab.research.google.com/drive/1npJiC78Msa17JJ7EMijTuH4SqmU-ZKRQ#scrollTo=OAuJoVpgENDV
   
   week4:
   
