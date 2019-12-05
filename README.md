@@ -59,6 +59,9 @@ This is a project about generating a peptide library using Generative Model.
  Preprocessing of peptide sequence reference:
  https://www.kaggle.com/helmehelmuto/cnn-keras-and-innvestigate -used inbuild keras tokenizer to convert sequences
  Another good reference:https://towardsdatascience.com/protein-sequence-classification-99c80d0ad2df
+ 
+ //to get filter size and dimension calculation for conv 2D transpose:
+ https://medium.com/apache-mxnet/transposed-convolutions-explained-with-ms-excel-52d13030c7e8
   
   week4:
   
