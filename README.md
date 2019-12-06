@@ -65,6 +65,9 @@ This is a project about generating a peptide library using Generative Model.
  
  //see of this can help to solve our problem statement:
  https://github.com/nashory/gans-awesome-applications
+ 
+ //protein paper reference link:
+ https://github.com/Shen-Lab/gcWGAN
   
   week4:
   
