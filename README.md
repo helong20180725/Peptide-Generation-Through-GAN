@@ -62,6 +62,9 @@ This is a project about generating a peptide library using Generative Model.
  
  //to get filter size and dimension calculation for conv 2D transpose:
  https://medium.com/apache-mxnet/transposed-convolutions-explained-with-ms-excel-52d13030c7e8
+ 
+ //see of this can help to solve our problem statement:
+ https://github.com/nashory/gans-awesome-applications
   
   week4:
   
