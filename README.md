@@ -71,6 +71,10 @@ This is a project about generating a peptide library using Generative Model.
  
  //protein preprocessing:
  https://towardsdatascience.com/protein-sequence-classification-99c80d0ad2df
+ 
+ 
+ //reference 
+ https://medium.com/analytics-vidhya/implementing-a-gan-in-keras-d6c36bc6ab5f
   
   week4:
   
