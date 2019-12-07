@@ -79,7 +79,7 @@ This is a project about generating a peptide library using Generative Model.
   week4:
   
   1. writing report and paper
-  
+  https://colab.research.google.com/drive/17heitp25AzVNaynQEjSeqMxkADVXwDKY
   week5:
   
   1. presentation
