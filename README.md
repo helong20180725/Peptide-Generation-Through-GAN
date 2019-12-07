@@ -68,6 +68,9 @@ This is a project about generating a peptide library using Generative Model.
  
  //protein paper reference link:
  https://github.com/Shen-Lab/gcWGAN
+ 
+ //protein preprocessing:
+ https://towardsdatascience.com/protein-sequence-classification-99c80d0ad2df
   
   week4:
   
