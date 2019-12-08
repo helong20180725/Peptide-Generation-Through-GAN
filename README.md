@@ -74,7 +74,10 @@ This is a project about generating a peptide library using Generative Model.
  
  
  //reference 
- https://medium.com/analytics-vidhya/implementing-a-gan-in-keras-d6c36bc6ab5f
+ https://medium.com/analytics-vidhya/implementing-a-gan-in-keras-d6c36bc6ab5f 
+ 
+ //http://2018.igem.org/Team:Vilnius-Lithuania-OG/ProteinGAN
+ https://github.com/biomatterdesigns/ProteinGAN/tree/master/src
   
   week4:
   
