@@ -87,3 +87,7 @@ This is a project about generating a peptide library using Generative Model.
   
   1. presentation
   
+  
+  <br>
+  How to draw model layer:
+  https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-cifar-10-small-object-photographs-from-scratch/
