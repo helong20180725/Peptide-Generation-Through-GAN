@@ -1,11 +1,11 @@
 Problems: 
 
-Optimizer is wrong,  The discriminator cannot improve.
-The discriminator is so bad that the generator cannot be updated because of low loss.
-It's hard to find a convergence status. 
-dataset is not enough
-G_loss cannot be reduced.
-Memory is not enough
+1. if Optimizer is wrong,  The discriminator cannot improve.
+2. The discriminator is so bad that the generator cannot be updated because of low loss.
+3. It's hard to find a convergence status. 
+4. dataset is not enough.
+5. G_loss cannot be reduced.
+6. Memory is not enough
 
 7.  activation problems, can not find a activation to restrict the range of the generator output. So we want to invent a new activation function. 
 
@@ -15,17 +15,17 @@ Memory is not enough
 
 
 attempts:
-Dynamic training instead of fixed number of discriminator training or fixed number of generator training. ( use while loop to check the loss, then decide whether break the corresponding loop.)
+1. Dynamic training instead of fixed number of discriminator training or fixed number of generator training. ( use while loop to check the loss, then decide whether break the corresponding loop.)
 Set loss as the detector. if loss is less than a number(0.01, which has relation to the batch size.), stop. begin to train the other one. 
 
 2D:
-Add flatten layer Generator model. 
-Changed the discriminator.trainable of GAN to True. make the discriminator to update when train generator.
+2. Add flatten layer Generator model. also batchnormalization.
+3. Changed the discriminator.trainable of GAN to True. make the discriminator to update when train generator.
 Add maxpooling2d to discriminator.
-change the batch size
-Drop useless data.
-Add more columns for real data.
-Different encoder : one hot encoding, label encoding, label binary encoding. 
+4. change the batch size
+5. Drop useless data.
+6. Add more columns for real data.
+7. Different encoder : one hot encoding, label encoding, label binary encoding. 
 
 
 
